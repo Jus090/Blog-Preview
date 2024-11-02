@@ -28,7 +28,7 @@ img{
 .link p{
     background-color: hsl(47, 88%, 63%); 
     padding: 10px;
-    max-width: 70px;
+    width: 70px;
     border-radius: 5px;
     font-family: "Figtree",sans-serif;  
 }
